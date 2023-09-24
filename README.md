@@ -5,7 +5,7 @@ This app is a useful one as it turns a list of proxies into a list of working pr
 2. Paste the proxy list into proxies.txt
 3. Run Prox.exe and wait for it to test the proxies
 4. Then run BestProxyFinder.exe and it will narrow the proxies down to 10
-5. Then run AppDownloader.exe to get the game downloader apps.
+5. Then run Downloader.exe to get the different games/apps.
    
 The proxies then will have "http://" prepended to them and all of the non working ones will be removed. this proxy
 list then can be used in apps or a browser.
