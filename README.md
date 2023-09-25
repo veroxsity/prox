@@ -1,5 +1,6 @@
 # prox
 This app is a useful one as it turns a list of proxies into a list of working proxies that can be used for any app.
+Files can be found in the releases section.
 
 1. Head to https://https://free-proxy-list.net/# and then copy the raw ip list.
 2. Paste the proxy list into proxies.txt
